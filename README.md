@@ -1,4 +1,4 @@
 # Tizen
   *typo
-  *github.com/Tizen
+   *github.com/Tizen
   
