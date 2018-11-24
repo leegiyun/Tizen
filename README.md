@@ -1,5 +1,5 @@
 # Tizen
   *typo
   
-   *github.com/Tizen
+   *https://github.com/leegiyun/Tizen/blob/master/README.md
   
